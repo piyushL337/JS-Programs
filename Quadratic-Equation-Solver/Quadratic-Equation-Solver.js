@@ -1,6 +1,8 @@
 // program to solve quadratic equation
 let root1, root2;
 
+
+
 // take input from the user
 let a = prompt("Enter the first number: ");
 let b = prompt("Enter the second number: ");
